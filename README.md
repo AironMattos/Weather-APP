@@ -6,4 +6,4 @@
 
 
 
-> https://django-consulta-cep.herokuapp.com/
+> https://weather-app-teste.herokuapp.com/
